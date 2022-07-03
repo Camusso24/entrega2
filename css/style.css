@@ -110,3 +110,33 @@
     list-style-type: none;
     line-height: 30px;
 }
+/*CONTACTO*/
+.contacto1{
+    padding-top: 20px;
+    color: #333333;
+}
+.desc1{
+    padding-top: 200px;
+}
+.desc2{
+    list-style: none;
+    padding-left: 200px;
+    line-height: 30px;
+}
+.desc2 li{
+    color:#51524C;
+}
+.desc1 h2{
+    color:#51524c;
+}
+.label3{
+    color: #51524c;
+}
+.label3 textarea{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.icono{
+    height: 20vh;
+    padding-left: 270px;
+}
