@@ -1,0 +1,66 @@
+*{
+    font-family: 'Cairo', sans-serif;
+}
+/*INDEX*/
+.fotos{ 
+    height: 80vh;
+}
+.datos{
+    margin-left: 200px;
+    color: #51524C;
+}
+.navbar div a{
+    padding-left: 120px;
+    color:#51524C;
+}
+.datos ul li a{
+    color: #51524C;
+}
+.descripcion h3{
+    color: #51524c;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.descripcion p{
+    color: #777777;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 30px;
+}
+.cont h4{
+    color:#51524c;
+    margin-top: 30px;
+}
+.cont h5{
+    color: #333333;
+    padding-top: 60px;
+}
+.cont p{
+    color: #777777;
+    margin-top: 10px;
+}
+/*FOOTER*/
+.black{
+    background-color: black;
+    height: 30vh;
+    margin-top: 180px;
+}
+.titulo-1{
+    color: aliceblue;
+    padding-top: 60px;
+}
+.direccion, .email{
+    color:aliceblue;
+    padding-top: 60px;
+}
+.row span{
+    font-weight: 600;
+}
+.gray{
+    color:#51524c;
+    background-color: #c4c4c4;
+    height: 7vh;
+}
+.cop{
+    top: 10px;
+}
