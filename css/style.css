@@ -64,3 +64,30 @@
 .cop{
     top: 10px;
 }
+/*INSTITUCION*/
+.titulo2 h2{
+    color:#333333;
+    margin-top: 20px;
+}
+.titulo2 h3{
+    color:#51524C;
+    margin-top: 30px;
+}
+.titulo2 p{
+    color:#777777;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 30px;
+}
+.titulo2 span{
+    color:#777777;
+    font-weight: 700;
+}
+.descripcion2{
+    color:#777777;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.descripcion2 span{
+    font-weight: 700;
+}
