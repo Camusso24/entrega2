@@ -91,3 +91,22 @@
 .descripcion2 span{
     font-weight: 700;
 }
+/*AREAS DE PRACTICA*/
+.areas h1{
+    background-image: url(../img/areas.jpg);
+    color: #51524c;
+    padding-top: 130px;
+    width: 100%;
+    height: 400px;
+}
+.titulos5 h5{
+    color:#51524c;
+    padding-left: 70px;
+    margin-top: 40px;
+}
+.titulos5 ul li{
+    color:#777777;
+    padding-left: 70px;
+    list-style-type: none;
+    line-height: 30px;
+}
