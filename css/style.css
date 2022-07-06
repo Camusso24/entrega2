@@ -93,7 +93,7 @@
 }
 /*AREAS DE PRACTICA*/
 .areas h1{
-    background-image: url(../img/areas.jpg);
+    background-image: url(../img/areas.jpeg);
     color: #51524c;
     padding-top: 130px;
     width: 100%;
@@ -141,12 +141,13 @@
     padding-left: 270px;
 }
 /*MIEMBROS*/
-.manos{
-    height: 60vh;
+.tmiem{
+    background-image: url(../img/miembros.jpeg);
+    height: 70vh;
 }
 .miembros h1{
     color:#333333;
-    padding-top: 20px;
+    padding-top: 170px;
 }
 .miembros h3{
     color:#333333;
